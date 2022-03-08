@@ -1,5 +1,3 @@
-### Bryam Diedrich Garcia
-   ##
 - 🔭 Eu estou a procura de estagio na area de TI 
 - 🌱 Eu estou aprendendo MYSQL atualmente.... 
 
