@@ -1,5 +1,5 @@
-- 🔭 Eu estou a procura de estagio na area de TI 
-- 🌱 Eu estou aprendendo MYSQL atualmente.... 
+- 🔭 **Eu estou a procura de estagio na area de TI** 
+- 🌱 **Eu estou aprendendo MYSQL atualmente....** 
 
 <div align="center">
   <a href="https://github.com/BryamDG">
