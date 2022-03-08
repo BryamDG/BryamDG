@@ -1,8 +1,7 @@
-### Olá, Eu sou Bryam Diedrich 👋👋
+### Bryam Diedrich Garcia
    ##
-   
-- 🔭 Eu estou a procura de estagio 
-- 🌱 Eu estou aprendendo MYSQL atualmente
+- 🔭 Eu estou a procura de estagio na area de TI 
+- 🌱 Eu estou aprendendo MYSQL atualmente.... 
 
 <div align="center">
   <a href="https://github.com/BryamDG">
