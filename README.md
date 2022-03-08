@@ -1,4 +1,6 @@
 ### Olá, Eu sou Bryam Diedrich 👋👋
+   ##
+   
 - 🔭 Eu estou a procura de estagio 
 - 🌱 Eu estou aprendendo MYSQL atualmente
 
