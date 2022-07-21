@@ -1,4 +1,4 @@
-## 🔭 **Estou a procura de uma oportunidade de estagio**
+## 🔭 **Estou a procura de uma oportunidade de estagio/trabalho em TI **
 <div align="center">
   <a href="https://github.com/BryamDG">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BryamDG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
