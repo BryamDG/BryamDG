@@ -1,12 +1,12 @@
 ## 🔭 **Estou a procura de uma oportunidade de estagio/trabalho em TI **
 <div align="center">
   <a href="https://github.com/BryamDG">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BryamDG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BryamDG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
   <div style="display: inline_block"><br>
   <img align="center" alt="Bryam-CSS" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bryam-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bryam-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Bryam-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <div> 
   
    ## 
