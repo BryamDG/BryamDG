@@ -1,4 +1,4 @@
-## 🔭 **Estou a procura de uma oportunidade de estagio/trabalho em TI **
+## 🔭 **Olá, meu nome é Bryam e sou um estudante de Tecnologia da Informação, atualmente estou me formando em Análise e Desenvolvimento de Sistemas. Com conhecimentos sólidos em programação, busco aprimorar minhas habilidades e desenvolver projetos inovadores. Meu interesse em TI está relacionado à criação de soluções eficientes para problemas complexos e à melhoria da experiência do usuário. Estou sempre buscando aprender e me atualizar em relação às novas tecnologias e tendências da indústria. Sinta-se à vontade para explorar meu perfil e verificar meus projetos e contribuições 👋 **
 <div align="center">
   <a href="https://github.com/BryamDG">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BryamDG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
